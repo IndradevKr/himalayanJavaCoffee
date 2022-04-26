@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/himalayanJavaCoffee/static/css/main.fc7a942b.css",
+    "main.css": "/himalayanJavaCoffee/static/css/main.ce2da995.css",
     "main.js": "/himalayanJavaCoffee/static/js/main.019139d6.js",
     "static/js/787.fa5bf99f.chunk.js": "/himalayanJavaCoffee/static/js/787.fa5bf99f.chunk.js",
     "static/media/edited.png": "/himalayanJavaCoffee/static/media/edited.172b00daf2233cfcbfda.png",
@@ -20,12 +20,12 @@
     "static/media/coffee-bean-3.png": "/himalayanJavaCoffee/static/media/coffee-bean-3.7ffc1f7e0247566ec025.png",
     "static/media/coffee-bean.png": "/himalayanJavaCoffee/static/media/coffee-bean.f51394f537ffc74d97b6.png",
     "index.html": "/himalayanJavaCoffee/index.html",
-    "main.fc7a942b.css.map": "/himalayanJavaCoffee/static/css/main.fc7a942b.css.map",
+    "main.ce2da995.css.map": "/himalayanJavaCoffee/static/css/main.ce2da995.css.map",
     "main.019139d6.js.map": "/himalayanJavaCoffee/static/js/main.019139d6.js.map",
     "787.fa5bf99f.chunk.js.map": "/himalayanJavaCoffee/static/js/787.fa5bf99f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc7a942b.css",
+    "static/css/main.ce2da995.css",
     "static/js/main.019139d6.js"
   ]
 }
