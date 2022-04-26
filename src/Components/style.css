@@ -127,7 +127,11 @@ section h3, h2{
   html {
     font-size: 50%;
   }
+  .nav__list__mobile{
+    margin-top: 5rem;
+  }
 }
+
 /* ------------End of Header --------------- */
 
 /* ---------------Hero Section--------------- */
