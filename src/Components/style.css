@@ -647,15 +647,7 @@ button:hover {
   right: 0;
   width: 5rem;
 }
-@media only screen and (max-width: 992px){
 
-}
-@media only screen and (max-width: 768px){
-  
-}
-@media only screen and (max-width: 600px){
-  
-}
 /* -------------End of Social Section------------ */
 /* -------------Footer Section ----------------- */
 .footer {
@@ -724,5 +716,13 @@ button:hover {
   top: 16rem;
   right: 20rem;
   width: 5rem;
+}
+@media only screen and (max-width: 600px){
+  .logo-aside-bean {
+    right: 5rem;
+  }
+  .middle-right-bean{
+    right: 2rem;
+  }
 }
 /* -------------End of Footer Section ----------------- */
